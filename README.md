@@ -119,9 +119,9 @@ ________________________________________________________________________________
 
 ### Contact
 
-__Website__: https://malwared.com
+__Website__: https://mtasecurity.com
 
-__Email__: security@malwared.com
+__Email__: security@mtasecurity.com
 
 __Twitter__: [![twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/malwaredllc)
-# Botnetcyb
+# BotnetAZE
